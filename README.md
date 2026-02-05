@@ -95,12 +95,7 @@ Repositorio: (pega aquí el link)
 
 ---
 
-### Medicion-IMG — Medición y análisis desde imágenes
-Proyecto orientado a extraer información útil desde imágenes mediante técnicas de procesamiento digital y visión por computador, enfocado en medición y validación de resultados.  
-**Tecnologías:** Python, TypeScript, OpenCV  
-Repositorio: (pega aquí el link)
 
----
 
 ## Contacto
 - Portafolio: https://patricioarratia.me
