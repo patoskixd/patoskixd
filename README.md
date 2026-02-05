@@ -7,7 +7,9 @@ Temuco, Chile
 ---
 
 ## Perfil
-Ingeniero Civil en Informática con experiencia en el diseño y desarrollo de soluciones tecnológicas orientadas a la eficiencia, escalabilidad y experiencia de usuario. He trabajado en plataformas web, aplicaciones móviles y soluciones con IA, con validación en entornos académicos reales.
+Ingeniero Civil en Informática orientado al diseño de soluciones digitales que transforman problemas complejos en sistemas simples, eficientes y utilizables. Combino una base técnica sólida con una mentalidad estratégica para desarrollar plataformas centradas en el usuario, priorizando rendimiento, claridad y impacto real.
+
+Me motiva participar en proyectos donde la tecnología tenga un propósito claro más allá del código, con énfasis en escalabilidad, experiencia de usuario e integración de inteligencia artificial.
 
 ---
 
