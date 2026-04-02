@@ -79,20 +79,6 @@ Me motiva participar en proyectos donde la tecnología tenga un propósito claro
 
 ---
 
-## Proyectos Destacados
-
-### CINAP — Agente Conversacional de IA
-Plataforma web para la gestión de asesorías académicas con asistente conversacional disponible en web y Telegram, soporte de voz y sincronización automática con Google Calendar.  
-**Tecnologías:** FastAPI, Next.js, PostgreSQL, Redis, vLLM, LangChain  
-
----
-
-### MediLab — Microscopía Móvil
-Aplicación móvil para la Facultad de Medicina que permite realizar mediciones microscópicas precisas utilizando imágenes capturadas con dispositivos móviles.  
-**Tecnologías:** Ionic, Angular, OpenCV  
-
----
-
 
 
 ## Contacto
